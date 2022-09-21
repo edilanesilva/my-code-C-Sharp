@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/edilanesilva/my-code-C-Sharp?style=plastic)](https://github.com/edilanesilva/my-code-C-Sharp/blob/main/LICENSE)
+![GitHub top language](https://img.shields.io/github/languages/top/edilanesilva/my-code-C-Sharp?style=plastic)
 # Treinando programação
 
 ## Algoritmos em C#
