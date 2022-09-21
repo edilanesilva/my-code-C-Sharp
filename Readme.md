@@ -2,13 +2,13 @@
 
 ## Algoritmos em C#
 
-- Ler a base e a altura e calcular a **área do triangulo**
+- [X] Ler a base e a altura e calcular a **área do triangulo**
 
   ![formulaAreaTriangulo](./img/figAreaTriangulo.PNG)
 
-- Ler a idade e calcular o número de dias.
-- Ler um numero e mostrar seu antecessor e sucessor.
-- Ler o raio do circulo e mostra a área, formula:
+- [X] Ler a idade e calcular o número de dias.
+- [X] Ler um numero e mostrar seu antecessor e sucessor.
+- [X] Ler o raio do circulo e mostra a área, formula:
 
   ![FormulaAreaCirculo](./img/raio.PNG)
 
