@@ -2,7 +2,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/edilanesilva/my-code-C-Sharp?style=plastic)
 # Treinando programação
 
-## Algoritmos em C#
+## Algoritmos em C# para aprimoramento de códigos e lógica.
 
 - [X] Ler a base e a altura e calcular a **área do triangulo**
 
@@ -14,4 +14,4 @@
 
   ![FormulaAreaCirculo](./img/raio.PNG)
 
-- [ ] Ler a distância e retornar a quantidade de litros de combustivel necessária para percorrer-la. Sabendo que um automovel faz 12km/l.
+- [X] Ler a distância e retornar a quantidade de litros de combustivel necessária para percorrer-la. Sabendo que um automovel faz 12km/l.
