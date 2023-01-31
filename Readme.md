@@ -4,7 +4,7 @@
 
 ## Algoritmos em C# para aprimoramento de códigos e lógica.
 
-- 1-[X] Ler a base e a altura e calcular a **área do triangulo**
+- [X] Ler a base e a altura e calcular a **área do triangulo**
 
   ![formulaAreaTriangulo](./img/figAreaTriangulo.PNG)
 
@@ -18,6 +18,10 @@
 
 ## Estruturas de decisão
 
-- [] Desenvolva um codigo que leia a altura de uma pessoa. Devera imprimir " Alto" se a altura for maior que 1,80 ou igual; caso contrário, deverá imprimir "Baixo".
+- [X] Desenvolva um codigo que leia a altura de uma pessoa. Devera imprimir " Alto"  se a altura for maior que 1,80 ou igual; caso contrário, deverá imprimir "Baixo".
+
+- [X] Desenvolva um código que leia dois valores inteiros positivos e que os imprima em ordem crescente.
+
+- [X] Desenvolva um código que leia o nome de dois times e o número de gols marcados na partida (para cada time). O nome do vencedor deverá ser escrito. Caso não haja um, deverá ser impressa a palavra “empate”.
 
 
