@@ -22,6 +22,6 @@
 
 - [X] Desenvolva um código que leia dois valores inteiros positivos e que os imprima em ordem crescente.
 
-- [] Desenvolva um código que leia o nome de dois times e o número de gols marcados na partida (para cada time). O nome do vencedor deverá ser escrito. Caso não haja um, deverá ser impressa a palavra “empate”.
+- [ ] Desenvolva um código que leia o nome de dois times e o número de gols marcados na partida (para cada time). O nome do vencedor deverá ser escrito. Caso não haja um, deverá ser impressa a palavra “empate”.
 
 
