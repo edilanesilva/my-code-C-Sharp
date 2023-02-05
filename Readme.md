@@ -2,7 +2,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/edilanesilva/my-code-C-Sharp?style=plastic)
 # Treinando programação e lógica
 
-## Algoritmos em C# para aprimoramento de códigos e lógica.
+## Algoritmos em C#.
 
 - [X] Ler a base e a altura e calcular a **área do triangulo**
 
